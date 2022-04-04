@@ -24,6 +24,10 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         }
         Parse.initialize(with: parseConfig)
         
+       // if PFUser.current() != nil {
+            
+        //}
+        
         return true
     }
 
