@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CB9D213E-3E2D-4DBA-A4C6-B26C049E9B37"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "InstaParse/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E - fe60f76b6ae30e25"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaParse.LoginViewController.passwordField.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "InstaParse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marquisnoir/Desktop/IOS/InstaParse/InstaParse/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E - 2cf6b7ea5d215a51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaParse.LoginViewController.passwordField.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "InstaParse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marquisnoir/Desktop/IOS/InstaParse/InstaParse/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E - 30c0fd140d179120"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaParse.LoginViewController.passwordField.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "InstaParse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marquisnoir/Desktop/IOS/InstaParse/InstaParse/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E - 6a8daa4d773eab72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaParse.LoginViewController.passwordField.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "InstaParse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marquisnoir/Desktop/IOS/InstaParse/InstaParse/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E - 2bd3a33916e0b680"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaParse.LoginViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; InstaParse.LoginViewController"
+                  moduleName = "InstaParse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marquisnoir/Desktop/IOS/InstaParse/InstaParse/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "9D2EA039-BC41-41F4-9D34-F79127F5546E - fc485fa398fbbdbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "InstaParse.LoginViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;InstaParse.LoginViewController&gt;"
+                  moduleName = "InstaParse"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marquisnoir/Desktop/IOS/InstaParse/InstaParse/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "127">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
