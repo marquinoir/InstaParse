@@ -9,7 +9,7 @@ Time spent: **15** hours spent in total
 The following **required** functionality is completed:
 
 - [X] User stays logged in across restarts. (1pt)
-- [ ] User can log out. (1pt)
+- [X] User can log out. (1pt)
 - [ ] User can view comments on a post. (3pts)
 - [ ] User can add a new comment. (5pts)
 
@@ -18,7 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/mjROn5M.gif)
+
+
 # Project 5 - By Esse
 
 # InstaParse - Part I
