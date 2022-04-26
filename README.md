@@ -1,4 +1,4 @@
-# InstaParse - Part II
+# Hw6 -InstaParse - Part II
 
 This is an Instagram clone with a custom Parse backend that allows a user to post photos, view a global photos feed, and add comments!
 
@@ -17,8 +17,11 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
+-stays logged in across and view comments
+![](https://i.imgur.com/QEojQjz.gif)
+- User can log out. 
 ![](https://i.imgur.com/mjROn5M.gif)
+
 
 
 # Project 5 - By Esse
